@@ -1,5 +1,5 @@
 # A-Journey-To-The-Light
-Adenture Game made with Unity - Agora Game Jam
+Adenture Game made with Unity - Agora Game Jam 2018
 
 ## Equipo:
 
@@ -9,8 +9,9 @@ Adenture Game made with Unity - Agora Game Jam
 - Nicolas Osorio Arias - Desarrollador y Diseño del juego
 
 
-
+"""
 Para jugarlo ejecutarlo en la siguiente ruta: "jorney/jorney.exe"
+"""
 
 
 
