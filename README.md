@@ -9,9 +9,7 @@ Adenture Game made with Unity - Agora Game Jam 2018
 - Nicolas Osorio Arias - Desarrollador y Diseño del juego
 
 
-"""
 Para jugarlo ejecutarlo en la siguiente ruta: "jorney/jorney.exe"
-"""
 
 
 
