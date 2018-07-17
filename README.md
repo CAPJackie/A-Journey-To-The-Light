@@ -4,6 +4,6 @@ Adenture Game made with unity - Agora Game Jam
 Equipo:
 
 - Juan Nicolas Gomez - Desarrollador
-- Juan José Andrade - Desarrollador
-- Juan David Ramirez Mendoza - Desarrollador
-- Nicolas Osorio Arias - Desarrollador
+- Juan José Andrade - Desarrollador y Diseño
+- Juan David Ramirez Mendoza - Desarrollador y Musica
+- Nicolas Osorio Arias - Desarrollador y Diseño del juego
